@@ -6,8 +6,8 @@ Variance
 
 The [variance](https://en.wikipedia.org/wiki/variance) for a [Poisson](https://en.wikipedia.org/wiki/Poisson_distribution) random variable is
 
-<div class="equation" align="center" data-raw-text="\operatorname{}\left[ X \right] = " data-equation="eq:variance">
-	<img src="" alt="variance for a Poisson distribution.">
+<div class="equation" align="center" data-raw-text="\operatorname{Var}\left( X \right) = \lambda" data-equation="eq:variance">
+	<img src="https://cdn.rawgit.com/distributions-io/poisson-variance/cdf3141f91a589faa97880e43c6a0017881cdd1b/docs/img/eqn.svg" alt="Variance for a Poisson distribution.">
 	<br>
 </div>
 
